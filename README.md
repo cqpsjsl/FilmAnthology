@@ -7,7 +7,7 @@
 
 # 使用方法
 
-上传文件到application/app/controller/目录下
+将PHP文件上传到application/app/controller/目录下
 
 前端请求：域名+/app/tencent?url=https://m.youku.com/video/id_XNDk2MzA5Nzc2MA==
 
